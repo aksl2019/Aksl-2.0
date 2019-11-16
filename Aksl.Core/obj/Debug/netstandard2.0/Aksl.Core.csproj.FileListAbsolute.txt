@@ -1,0 +1,9 @@
+C:\Aksl\Aksl.Core\bin\Debug\netstandard2.0\Aksl.Core.deps.json
+C:\Aksl\Aksl.Core\bin\Debug\netstandard2.0\Aksl.Core.dll
+C:\Aksl\Aksl.Core\bin\Debug\netstandard2.0\Aksl.Core.pdb
+C:\Aksl\Aksl.Core\obj\Debug\netstandard2.0\Aksl.Core.csprojAssemblyReference.cache
+C:\Aksl\Aksl.Core\obj\Debug\netstandard2.0\Aksl.Core.csproj.CoreCompileInputs.cache
+C:\Aksl\Aksl.Core\obj\Debug\netstandard2.0\Aksl.Core.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.Core\obj\Debug\netstandard2.0\Aksl.Core.AssemblyInfo.cs
+C:\Aksl\Aksl.Core\obj\Debug\netstandard2.0\Aksl.Core.dll
+C:\Aksl\Aksl.Core\obj\Debug\netstandard2.0\Aksl.Core.pdb

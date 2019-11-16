@@ -1,0 +1,7 @@
+C:\Aksl\Aksl.Csv\Sdk\Aksl.Csv\bin\Debug\netstandard2.0\Aksl.Csv.deps.json
+C:\Aksl\Aksl.Csv\Sdk\Aksl.Csv\bin\Debug\netstandard2.0\Aksl.Csv.dll
+C:\Aksl\Aksl.Csv\Sdk\Aksl.Csv\bin\Debug\netstandard2.0\Aksl.Csv.pdb
+C:\Aksl\Aksl.Csv\Sdk\Aksl.Csv\obj\Debug\netstandard2.0\Aksl.Csv.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.Csv\Sdk\Aksl.Csv\obj\Debug\netstandard2.0\Aksl.Csv.AssemblyInfo.cs
+C:\Aksl\Aksl.Csv\Sdk\Aksl.Csv\obj\Debug\netstandard2.0\Aksl.Csv.dll
+C:\Aksl\Aksl.Csv\Sdk\Aksl.Csv\obj\Debug\netstandard2.0\Aksl.Csv.pdb

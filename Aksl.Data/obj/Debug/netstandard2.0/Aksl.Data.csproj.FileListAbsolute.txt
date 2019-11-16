@@ -1,0 +1,16 @@
+C:\Aksl\Aksl.Data\bin\Debug\netstandard2.0\Aksl.Data.deps.json
+C:\Aksl\Aksl.Data\bin\Debug\netstandard2.0\Aksl.Data.dll
+C:\Aksl\Aksl.Data\bin\Debug\netstandard2.0\Aksl.Data.pdb
+C:\Aksl\Aksl.Data\obj\Debug\netstandard2.0\Aksl.Data.csprojAssemblyReference.cache
+C:\Aksl\Aksl.Data\obj\Debug\netstandard2.0\Aksl.Data.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.Data\obj\Debug\netstandard2.0\Aksl.Data.AssemblyInfo.cs
+C:\Aksl\Aksl.Data\obj\Debug\netstandard2.0\Aksl.Data.dll
+C:\Aksl\Aksl.Data\obj\Debug\netstandard2.0\Aksl.Data.pdb
+C:\Aksl 2.0\Aksl.Data\bin\Debug\netstandard2.0\Aksl.Data.deps.json
+C:\Aksl 2.0\Aksl.Data\bin\Debug\netstandard2.0\Aksl.Data.dll
+C:\Aksl 2.0\Aksl.Data\bin\Debug\netstandard2.0\Aksl.Data.pdb
+C:\Aksl 2.0\Aksl.Data\obj\Debug\netstandard2.0\Aksl.Data.csprojAssemblyReference.cache
+C:\Aksl 2.0\Aksl.Data\obj\Debug\netstandard2.0\Aksl.Data.AssemblyInfoInputs.cache
+C:\Aksl 2.0\Aksl.Data\obj\Debug\netstandard2.0\Aksl.Data.AssemblyInfo.cs
+C:\Aksl 2.0\Aksl.Data\obj\Debug\netstandard2.0\Aksl.Data.dll
+C:\Aksl 2.0\Aksl.Data\obj\Debug\netstandard2.0\Aksl.Data.pdb

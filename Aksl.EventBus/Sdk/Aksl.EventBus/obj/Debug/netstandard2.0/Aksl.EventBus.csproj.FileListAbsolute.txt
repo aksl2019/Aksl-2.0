@@ -1,0 +1,8 @@
+C:\Aksl\Aksl.EventBus\Sdk\Aksl.EventBus\bin\Debug\netstandard2.0\Aksl.EventBus.deps.json
+C:\Aksl\Aksl.EventBus\Sdk\Aksl.EventBus\bin\Debug\netstandard2.0\Aksl.EventBus.dll
+C:\Aksl\Aksl.EventBus\Sdk\Aksl.EventBus\bin\Debug\netstandard2.0\Aksl.EventBus.pdb
+C:\Aksl\Aksl.EventBus\Sdk\Aksl.EventBus\obj\Debug\netstandard2.0\Aksl.EventBus.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.EventBus\Sdk\Aksl.EventBus\obj\Debug\netstandard2.0\Aksl.EventBus.AssemblyInfo.cs
+C:\Aksl\Aksl.EventBus\Sdk\Aksl.EventBus\obj\Debug\netstandard2.0\Aksl.EventBus.dll
+C:\Aksl\Aksl.EventBus\Sdk\Aksl.EventBus\obj\Debug\netstandard2.0\Aksl.EventBus.pdb
+C:\Aksl\Aksl.EventBus\Sdk\Aksl.EventBus\obj\Debug\netstandard2.0\Aksl.EventBus.csprojAssemblyReference.cache

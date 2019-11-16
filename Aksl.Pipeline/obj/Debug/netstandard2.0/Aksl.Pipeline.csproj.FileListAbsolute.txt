@@ -1,0 +1,25 @@
+D:\GitHub\Aksl.Pipeline\bin\Debug\netstandard2.0\Aksl.Pipeline.deps.json
+D:\GitHub\Aksl.Pipeline\bin\Debug\netstandard2.0\Aksl.Pipeline.dll
+D:\GitHub\Aksl.Pipeline\bin\Debug\netstandard2.0\Aksl.Pipeline.pdb
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.csprojAssemblyReference.cache
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.csproj.CoreCompileInputs.cache
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.AssemblyInfoInputs.cache
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.AssemblyInfo.cs
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.dll
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.pdb
+C:\Aksl\Aksl.Pipeline\bin\Debug\netstandard2.0\Aksl.Pipeline.deps.json
+C:\Aksl\Aksl.Pipeline\bin\Debug\netstandard2.0\Aksl.Pipeline.dll
+C:\Aksl\Aksl.Pipeline\bin\Debug\netstandard2.0\Aksl.Pipeline.pdb
+C:\Aksl\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.csprojAssemblyReference.cache
+C:\Aksl\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.AssemblyInfo.cs
+C:\Aksl\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.dll
+C:\Aksl\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.pdb
+C:\Aksl 2.0\Aksl.Pipeline\bin\Debug\netstandard2.0\Aksl.Pipeline.deps.json
+C:\Aksl 2.0\Aksl.Pipeline\bin\Debug\netstandard2.0\Aksl.Pipeline.dll
+C:\Aksl 2.0\Aksl.Pipeline\bin\Debug\netstandard2.0\Aksl.Pipeline.pdb
+C:\Aksl 2.0\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.csprojAssemblyReference.cache
+C:\Aksl 2.0\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.AssemblyInfoInputs.cache
+C:\Aksl 2.0\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.AssemblyInfo.cs
+C:\Aksl 2.0\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.dll
+C:\Aksl 2.0\Aksl.Pipeline\obj\Debug\netstandard2.0\Aksl.Pipeline.pdb

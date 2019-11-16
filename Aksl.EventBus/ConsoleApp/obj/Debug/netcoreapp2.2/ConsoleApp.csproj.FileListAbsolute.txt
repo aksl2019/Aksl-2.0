@@ -1,0 +1,13 @@
+C:\Aksl\Aksl.EventBus\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+C:\Aksl\Aksl.EventBus\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+C:\Aksl\Aksl.EventBus\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+C:\Aksl\Aksl.EventBus\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Aksl\Aksl.EventBus\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Aksl\Aksl.EventBus\ConsoleApp\bin\Debug\netcoreapp2.2\Aksl.EventBus.dll
+C:\Aksl\Aksl.EventBus\ConsoleApp\bin\Debug\netcoreapp2.2\Aksl.EventBus.pdb
+C:\Aksl\Aksl.EventBus\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+C:\Aksl\Aksl.EventBus\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.EventBus\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+C:\Aksl\Aksl.EventBus\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CopyComplete
+C:\Aksl\Aksl.EventBus\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Aksl\Aksl.EventBus\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb

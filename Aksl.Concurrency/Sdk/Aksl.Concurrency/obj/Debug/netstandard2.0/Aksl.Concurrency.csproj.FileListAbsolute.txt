@@ -1,0 +1,34 @@
+D:\GitHub\Aksl.Concurrency\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.deps.json
+D:\GitHub\Aksl.Concurrency\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.dll
+D:\GitHub\Aksl.Concurrency\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.pdb
+D:\GitHub\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.csprojAssemblyReference.cache
+D:\GitHub\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.csproj.CoreCompileInputs.cache
+D:\GitHub\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.AssemblyInfoInputs.cache
+D:\GitHub\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.AssemblyInfo.cs
+D:\GitHub\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.dll
+D:\GitHub\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.pdb
+C:\Aksl\Aksl.Concurrency\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.deps.json
+C:\Aksl\Aksl.Concurrency\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.dll
+C:\Aksl\Aksl.Concurrency\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.pdb
+C:\Aksl\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.csprojAssemblyReference.cache
+C:\Aksl\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.csproj.CoreCompileInputs.cache
+C:\Aksl\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.AssemblyInfo.cs
+C:\Aksl\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.dll
+C:\Aksl\Aksl.Concurrency\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.pdb
+C:\Aksl\Aksl.Concurrency\Sdk\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.deps.json
+C:\Aksl\Aksl.Concurrency\Sdk\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.dll
+C:\Aksl\Aksl.Concurrency\Sdk\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.pdb
+C:\Aksl\Aksl.Concurrency\Sdk\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.csprojAssemblyReference.cache
+C:\Aksl\Aksl.Concurrency\Sdk\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.Concurrency\Sdk\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.AssemblyInfo.cs
+C:\Aksl\Aksl.Concurrency\Sdk\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.dll
+C:\Aksl\Aksl.Concurrency\Sdk\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.pdb
+C:\Aksl 2.0\Aksl.Concurrency\Sdk\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.deps.json
+C:\Aksl 2.0\Aksl.Concurrency\Sdk\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.dll
+C:\Aksl 2.0\Aksl.Concurrency\Sdk\Aksl.Concurrency\bin\Debug\netstandard2.0\Aksl.Concurrency.pdb
+C:\Aksl 2.0\Aksl.Concurrency\Sdk\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.csprojAssemblyReference.cache
+C:\Aksl 2.0\Aksl.Concurrency\Sdk\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.AssemblyInfoInputs.cache
+C:\Aksl 2.0\Aksl.Concurrency\Sdk\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.AssemblyInfo.cs
+C:\Aksl 2.0\Aksl.Concurrency\Sdk\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.dll
+C:\Aksl 2.0\Aksl.Concurrency\Sdk\Aksl.Concurrency\obj\Debug\netstandard2.0\Aksl.Concurrency.pdb

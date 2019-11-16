@@ -1,0 +1,38 @@
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Contoso.Infrastructure.Data.deps.json
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Contoso.Infrastructure.Data.dll
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Contoso.Infrastructure.Data.pdb
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.BulkInsert.dll
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Concurrency.dll
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Data.dll
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Pipeline.dll
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Contoso.Domain.dll
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Data.pdb
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.BulkInsert.pdb
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Contoso.Domain.pdb
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Concurrency.pdb
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Pipeline.pdb
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.AssemblyInfo.cs
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.csproj.CopyComplete
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.dll
+C:\Aksl\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.pdb
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Contoso.Infrastructure.Data.deps.json
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Contoso.Infrastructure.Data.dll
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Contoso.Infrastructure.Data.pdb
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.BulkInsert.dll
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Concurrency.dll
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Data.dll
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Pipeline.dll
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Contoso.Domain.dll
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Data.pdb
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.BulkInsert.pdb
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Contoso.Domain.pdb
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Concurrency.pdb
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\bin\Debug\netstandard2.0\Aksl.Pipeline.pdb
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.AssemblyInfo.cs
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.csproj.CopyComplete
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.dll
+C:\Aksl 2.0\Aksl.BulkInsert\Contoso\Contoso.Infrastructure.Data\obj\Debug\netstandard2.0\Contoso.Infrastructure.Data.pdb

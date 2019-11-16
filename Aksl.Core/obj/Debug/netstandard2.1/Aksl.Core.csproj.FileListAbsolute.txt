@@ -1,0 +1,9 @@
+D:\GitHub\Aksl.Core\bin\Debug\netstandard2.1\Aksl.Core.deps.json
+D:\GitHub\Aksl.Core\bin\Debug\netstandard2.1\Aksl.Core.dll
+D:\GitHub\Aksl.Core\bin\Debug\netstandard2.1\Aksl.Core.pdb
+D:\GitHub\Aksl.Core\obj\Debug\netstandard2.1\Aksl.Core.csprojAssemblyReference.cache
+D:\GitHub\Aksl.Core\obj\Debug\netstandard2.1\Aksl.Core.csproj.CoreCompileInputs.cache
+D:\GitHub\Aksl.Core\obj\Debug\netstandard2.1\Aksl.Core.AssemblyInfoInputs.cache
+D:\GitHub\Aksl.Core\obj\Debug\netstandard2.1\Aksl.Core.AssemblyInfo.cs
+D:\GitHub\Aksl.Core\obj\Debug\netstandard2.1\Aksl.Core.dll
+D:\GitHub\Aksl.Core\obj\Debug\netstandard2.1\Aksl.Core.pdb

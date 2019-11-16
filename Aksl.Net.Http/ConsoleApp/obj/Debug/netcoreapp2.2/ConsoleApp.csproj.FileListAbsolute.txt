@@ -1,0 +1,3 @@
+C:\Aksl\Aksl.Net.Http\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+C:\Aksl\Aksl.Net.Http\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.Net.Http\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs

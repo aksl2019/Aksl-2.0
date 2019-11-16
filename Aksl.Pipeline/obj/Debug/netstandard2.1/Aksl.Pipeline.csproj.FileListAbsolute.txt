@@ -1,0 +1,9 @@
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.1\Aksl.Pipeline.csprojAssemblyReference.cache
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.1\Aksl.Pipeline.csproj.CoreCompileInputs.cache
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.1\Aksl.Pipeline.AssemblyInfoInputs.cache
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.1\Aksl.Pipeline.AssemblyInfo.cs
+D:\GitHub\Aksl.Pipeline\bin\Debug\netstandard2.1\Aksl.Pipeline.deps.json
+D:\GitHub\Aksl.Pipeline\bin\Debug\netstandard2.1\Aksl.Pipeline.dll
+D:\GitHub\Aksl.Pipeline\bin\Debug\netstandard2.1\Aksl.Pipeline.pdb
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.1\Aksl.Pipeline.dll
+D:\GitHub\Aksl.Pipeline\obj\Debug\netstandard2.1\Aksl.Pipeline.pdb

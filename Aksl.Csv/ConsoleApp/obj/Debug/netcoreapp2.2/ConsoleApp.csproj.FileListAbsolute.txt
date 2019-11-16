@@ -1,0 +1,13 @@
+C:\Aksl\Aksl.Csv\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+C:\Aksl\Aksl.Csv\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+C:\Aksl\Aksl.Csv\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+C:\Aksl\Aksl.Csv\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Aksl\Aksl.Csv\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Aksl\Aksl.Csv\ConsoleApp\bin\Debug\netcoreapp2.2\Aksl.Csv.dll
+C:\Aksl\Aksl.Csv\ConsoleApp\bin\Debug\netcoreapp2.2\Aksl.Csv.pdb
+C:\Aksl\Aksl.Csv\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+C:\Aksl\Aksl.Csv\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+C:\Aksl\Aksl.Csv\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+C:\Aksl\Aksl.Csv\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CopyComplete
+C:\Aksl\Aksl.Csv\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Aksl\Aksl.Csv\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
